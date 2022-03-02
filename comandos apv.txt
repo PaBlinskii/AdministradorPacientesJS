@@ -1,0 +1,15 @@
+// installar npm
+npm init
+
+// instalar express
+npm i express
+
+// instalar nodemon para recargar automaticamente el servidor
+// --save-dev es para guardar dependencias solo en desarrollo
+npm i --save-dev nodemon
+
+// instalar mongoose para BD
+npm i mongoose
+
+// para leer variables de entorno 
+npm i dotenv

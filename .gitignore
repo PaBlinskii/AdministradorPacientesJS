@@ -1,0 +1,5 @@
+# Carpeta de Node modules
+node_modules
+
+# Variables de Entorno
+.env
